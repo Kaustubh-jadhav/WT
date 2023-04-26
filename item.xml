@@ -1,0 +1,23 @@
+<?xm-stylesheet type="text/css" href="item.css"?>
+<ItemDetails>
+    <item>
+        <ItemName>pen</ItemName>
+        <ItemPrice>10</ItemPrice>
+        <Quantity>20</Quantity>
+    </item>
+    <item>
+        <ItemName>pencil</ItemName>
+        <ItemPrice>100</ItemPrice>
+        <Quantity>20</Quantity>
+    </item>
+    <item>
+        <ItemName>book</ItemName>
+        <ItemPrice>20</ItemPrice>
+        <Quantity>60</Quantity>
+    </item>
+    <item>
+        <ItemName>labbok</ItemName>
+        <ItemPrice>19</ItemPrice>
+        <Quantity>3</Quantity>
+    </item>
+</ItemDetails>

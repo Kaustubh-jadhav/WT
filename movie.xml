@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<moviedetails>
+    <movie>
+        <movieno>1</movieno>
+        <movietitle>DDLJ</movietitle>
+        <actor>akshay</actor>
+    </movie>
+    <movie>
+        <movieno>2</movieno>
+        <movietitle>DDLJ</movietitle>
+        <actor>akshay</actor>
+    </movie>
+    <movie>
+        <movieno>3</movieno>
+        <movietitle>DDLJ</movietitle>
+        <actor>akshay</actor>
+    </movie>
+    <movie>
+        <movieno>4</movieno>
+        <movietitle>DDLJ</movietitle>
+        <actor>akshay</actor>
+    </movie>
+</moviedetails>
